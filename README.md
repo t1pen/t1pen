@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif)](https://rishavchanda.io)
+[![MasterHead]([https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif](https://i.pinimg.com/originals/be/50/bc/be50bca45794bddf426b853b2628483f.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Stephen Gabriel Alojado</h1>
 <h3 align="center">A 3rd Year Mechatronics Engineering Student at Batangas State University.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/be/50/bc/be50bca45794bddf426b853b2628483f.gif">
