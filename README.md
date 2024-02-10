@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Stephen Gabriel Alojado</h1>
 <h3 align="center">A 3rd Year Mechatronics Engineering Student at Batangas State University.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/be/50/bc/be50bca45794bddf426b853b2628483f.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/92/25/c2/9225c2bcda122cbcd6b40492317fa598.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tipen&label=Profile%20views&color=0e75b6&style=flat" alt="tipen" /> </p>
 
