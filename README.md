@@ -4,8 +4,6 @@
 <h3 align="center">A 3rd Year Mechatronics Engineering Student at Batangas State University.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/92/25/c2/9225c2bcda122cbcd6b40492317fa598.gif">
 
-<p>Stephen Gabriel S. Alojado</p>
-
 - 🌱 I’m currently learning **Computer Programming, 3D Modelling,**
 
 - 📫 How to reach me **salojado18@gmail.com**
