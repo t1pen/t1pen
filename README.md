@@ -3,7 +3,9 @@
 <h1> Hi 👋, I'm Stephen</h1>
 
 🌱 I’m currently learning **Computer Programming, 3D Modelling, and PLC Programming**
+
 📫 How to reach me **salojado18@gmail.com**
+
 ⚡ Fun fact **I am a Musician at a Local Church**
 
 ### 📊Stats
