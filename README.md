@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I am a Musician at a Local Church**
 
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1pen&show_icons=true&theme=transparent)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/stephen.alojado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stephen.alojado" height="30" width="40" /></a>
