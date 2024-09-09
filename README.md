@@ -2,12 +2,11 @@
 
 <h1> Hi 👋, I'm Stephen</h1>
 
-- 🌱 I’m currently learning **Computer Programming, 3D Modelling, and PLC Programming**
+🌱 I’m currently learning **Computer Programming, 3D Modelling, and PLC Programming**
+📫 How to reach me **salojado18@gmail.com**
+⚡ Fun fact **I am a Musician at a Local Church**
 
-- 📫 How to reach me **salojado18@gmail.com**
-
-- ⚡ Fun fact **I am a Musician at a Local Church**
-
+### 📊Stats
 ![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=t1pen&show_icons=true&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
