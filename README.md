@@ -1,10 +1,10 @@
 [![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)](https://rishavchanda.io)
 
 <h1> Hi 👋, I'm Stephen</h1>
-👨🏽‍💻 Mechatronics Engineering Student exploring the field of Mechatronics </br>
-🏫 Studying at Batangas State University, The National Engineering University </br>
-🌱 I’m currently learning 3D Modelling and Manufacturing, and PLC Programming </br>
-⚡ Fun fact about me is that I am a Musician </br>
+👨🏽‍💻 <b>Mechatronics Engineering Student</b> exploring the field of Mechatronics </br>
+🏫 Studying <b>Mechatronics Engineering</b> at Batangas State University, The National Engineering University </br>
+🌱 I’m currently learning <b> 3D Modelling and Manufacturing </b>, and <b> PLC Programming </b>  </br>
+⚡ Fun fact about me is that I am a <b>Musician</b> </br>
 
 ## 💻 Language and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
