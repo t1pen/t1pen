@@ -1,5 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)](https://rishavchanda.io)
-
 <h1> Hi 👋, I'm Stephen</h1>
 👨🏽‍💻 <b>Mechatronics Engineering Student</b> exploring the field of Mechatronics </br>
 🏫 Studying <b>Mechatronics Engineering</b> at Batangas State University, The National Engineering University </br>
