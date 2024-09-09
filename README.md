@@ -1,7 +1,7 @@
 <h1> Hi 👋, I'm Stephen</h1>
 👨🏽‍💻 <b>Mechatronics Engineering Student</b> exploring the field of Mechatronics </br>
 🏫 Studying <b>Mechatronics Engineering</b> at Batangas State University, The National Engineering University </br>
-🌱 I’m currently learning <b> 3D Modelling and Manufacturing </b>, and <b> PLC Programming </b>  </br>
+🌱 I’m currently learning <b> 3D Modelling and Manufacturing</b>, and <b> PLC Programming </b>  </br>
 ⚡ Fun fact about me is that I am a <b>Musician</b> </br>
 
 ## 💻 Language and Tools
