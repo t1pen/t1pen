@@ -1,7 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Stephen Gabriel Alojado</h1>
-<h3 align="center">A 3rd Year Mechatronics Engineering Student at Batangas State University.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/92/25/c2/9225c2bcda122cbcd6b40492317fa598.gif">
 
 - 🌱 I’m currently learning **Computer Programming, 3D Modelling, and PLC Programming**
