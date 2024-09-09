@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Stephen Gabriel Alojado</h1>
+<h1> Hi 👋, I'm Stephen</h1>
 
 - 🌱 I’m currently learning **Computer Programming, 3D Modelling, and PLC Programming**
 
